@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ProfileManager_fallActivity!</string>
+    <string name="app_name">ProfileManager_fall</string>
+    <string name="tile_textView">Auto Profile Mange</string>
+    <string name="stopButton_text">Stop Service</string>
+    <string name="title">PM</string>
+</resources>
